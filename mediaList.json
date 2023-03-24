@@ -5,10 +5,11 @@
     "title": "Accenture Technology Vision 2022 - Meet Me in the Metaverse - Event replay | Accenture",
     "src": "On4aYPaxggQ",
     "type": "video",
-    "sourceType": "youtube",
+    "sourceType": "MEDIA_SOURCE_TYPE.youtube",
     "pinned": false,
     "length": "1:00:23",
-    "uploadedBy": "Org"
+    "uploadedBy": "uploadedBy.org",
+    "category": "Other Videos"
   },
   {
     "id": "1",
@@ -16,10 +17,11 @@
     "title": "Fjord Trends 2022: The New Fabric of Life | Accenture",
     "src": "xmANbBs5HMg",
     "type": "video",
-    "sourceType": "youtube",
+    "sourceType": "MEDIA_SOURCE_TYPE.youtube",
     "pinned": false,
     "length": "1:13",
-    "uploadedBy": "Org"
+    "uploadedBy": "uploadedBy.org",
+    "category": "Global Leadership"
   },
   {
     "id": "2",
@@ -27,10 +29,11 @@
     "title": "Why Accenture? | Accenture",
     "src": "IEQA1yNtuLg",
     "type": "video",
-    "sourceType": "youtube",
+    "sourceType": "MEDIA_SOURCE_TYPE.youtube",
     "pinned": false,
     "length": "2:32",
-    "uploadedBy": "Org"
+    "uploadedBy": "uploadedBy.org",
+    "category": "Other Videos"
   },
   {
     "id": "3",
@@ -38,10 +41,11 @@
     "title": "Further Together | Accenture",
     "src": "Gu2oXvLGQmE",
     "type": "video",
-    "sourceType": "youtube",
+    "sourceType": "MEDIA_SOURCE_TYPE.youtube",
     "pinned": false,
     "length": "1:00",
-    "uploadedBy": "Org"
+    "uploadedBy": "uploadedBy.org",
+    "category": "Other Videos"
   },
   {
     "id": "4",
@@ -49,53 +53,34 @@
     "title": "Our People, Our Culture of Equality | Accenture",
     "src": "iUY8Lv96Scw",
     "type": "video",
-    "sourceType": "youtube",
+    "sourceType": "MEDIA_SOURCE_TYPE.youtube",
     "pinned": false,
     "length": "1:59",
-    "uploadedBy": "Org"
+    "uploadedBy": "uploadedBy.org",
+    "category": "Other Videos"
   },
   {
     "id": "5",
-    "thumbnailImage": "https://by3302files.storage.live.com/y4mJHPKYRDVa0Tq0tEL0MLkNp8Od4hPhcYudyjGdnU7DgErpEgEAflpu3f4QLCa5BjIwE11D2R3iKGauB3I0pbJDKSKrc6hMCB46pMB7fdsmbiAao0C5RmXOfzEZKcX6dFwQiIod2G0zeyfRL2akN9A8jw0Pf-sGWnKkXE-nMWv8-42_jM88n-F3PooGSSKaAyH?width=660&height=372&cropmode=none",
-    "title": "Onboarding to Teams Apps",
-    "src": "https://livesharemedia-usw22.streaming.media.azure.net/8bf16f5f-d4b0-437b-8121-d780abe744c9/Onboarding_Video11_Final_H264.ism/manifest(format=mpd-time-cmaf,encryption=cbc)",
-    "type": "video",
-    "sourceType": "azureMediaPlayer",
-    "pinned": false,
-    "length": "2:54",
-    "uploadedBy": "Org"
-  },
-  {
-    "id": "6",
     "thumbnailImage": "https://img.youtube.com/vi/2g88Ju6nkcg/hqdefault.jpg",
     "title": "Accenture Inclusion & The Power of Diversity | Accenture",
     "src": "2g88Ju6nkcg",
     "type": "video",
-    "sourceType": "youtube",
+    "sourceType": "MEDIA_SOURCE_TYPE.youtube",
     "pinned": false,
     "length": "3:28",
-    "uploadedBy": "Org"
+    "uploadedBy": "uploadedBy.org",
+    "category": "Other Videos"
   },
   {
-    "id": "7",
+    "id": "6",
     "thumbnailImage": "https://img.youtube.com/vi/EQhM0tCHNAA/hqdefault.jpg",
     "title": "Tech Vision 2021 | Accenture",
     "src": "EQhM0tCHNAA",
     "type": "video",
-    "sourceType": "youtube",
+    "sourceType": "MEDIA_SOURCE_TYPE.youtube",
     "pinned": false,
     "length": "0:38",
-    "uploadedBy": "Org"
-  },
-  {
-    "id": "8",
-    "thumbnailImage": "https://images4.alphacoders.com/247/247356.jpg",
-    "title": "Big Buck Bunny",
-    "src": "https://storage.googleapis.com/media-session/big-buck-bunny/trailer.mov",
-    "type": "video",
-    "sourceType": "html",
-    "pinned": false,
-    "length": "0:32",
-    "uploadedBy": "Org"
+    "uploadedBy": "uploadedBy.org",
+    "category": "Other Videos"
   }
 ]
